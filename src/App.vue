@@ -5,7 +5,6 @@
 </template>
 
 <script>
-import axios from 'axios'
 import Repos from './components/Repos.vue'
 
 export default {
