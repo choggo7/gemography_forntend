@@ -53,7 +53,6 @@ export default {
     },
     handleScrolledToBottom (isVisible){
       if(!isVisible){return}
-      console.log('hola');
       this.page++;
       this.fetch();
     }
